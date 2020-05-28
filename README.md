@@ -24,7 +24,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/richardbowden/passwordHash"
+	"github.com/dyadtech/passwordHash"
 )
 
 func main() {
